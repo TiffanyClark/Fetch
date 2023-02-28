@@ -1,0 +1,19 @@
+body {
+    background:linear-gradient(110.2deg, rgb(125, 99, 227) 5.3%, rgb(70, 211, 197) 100.2%);
+   
+   align-items: center;
+   justify-content: center;
+   font-family: Arial;
+}
+
+
+
+h1 {
+   font-family: Arial;
+   color:  #FFF;
+   font-size: 50px;
+   text-align: center;
+   text-shadow: 2px 2px rgba(0,0,0,0.3);
+   text-transform: uppercase;
+   border: double;
+}
