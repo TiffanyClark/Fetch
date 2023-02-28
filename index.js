@@ -45,3 +45,4 @@ async function getBodyFromResponse(){
     .then(response => response.json())
     .then(result=> console.log(JSON.stringify(result)))
     postRequest}
+//
