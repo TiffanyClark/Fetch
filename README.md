@@ -1,4 +1,4 @@
-# coding-excerise
+Fetch Coding Excerise
 This is a coding excerise for the company Fetch. Frontend Take-Home Exercise Your task is to build a webpage with a user creation form. The form should take the following required inputs:
 
 Full Name Email Password Occupation State Occupation and State should allow users to select from options returned by an endpoint. Users should only be able to select one occupation and one state. A GET request to https://frontend-take-home.fetchrewards.com/form will return a JSON body with the following format:
