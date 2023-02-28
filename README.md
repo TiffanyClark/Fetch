@@ -9,3 +9,4 @@ Full Name Email Password Occupation State Occupation and State should allow user
 
 { "name": "???", "email": "???", "password": "???", "occupation": "???", "state": "???" } The POST endpoint will return a 201 status code if all fields are provided. The response body will be the created user object. It does not perform any validation beyond this..
 # Fetch-2
+
